@@ -73,6 +73,7 @@ To showcase how to host a static website on **AWS S3**, which is a scalable obje
   ]
 }
 
+---
 
 ## Technologies Used
 
