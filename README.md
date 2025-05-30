@@ -57,22 +57,6 @@ To showcase how to host a static website on **AWS S3**, which is a scalable obje
 
 4. **Add Public Read Permissions**
    - Go to the **Permissions > Bucket Policy**
-   - Add the following policy:
-
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Sid": "PublicReadGetObject",
-      "Effect": "Allow",
-      "Principal": "*",
-      "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::your-bucket-name/*"
-    }
-  ]
-}
-
 ---
 
 ## Technologies Used
