@@ -11,6 +11,7 @@ To showcase how to host a static website on **AWS S3**, which is a scalable obje
 ---
 ## Features
 
+
 - Display various types of houses with images
 - User testimonials section
 - Contact information and form layout
